@@ -11,7 +11,7 @@ let codeCrewString = "Code School is a hands-on class designed to train individu
 let index=0;
 let newInput="";
 
-//Problem 2
+Problem 2
 textel.onkeydown=function (e) {
   labelId.textContent=codeCrewString[index];
   newInput=newInput+codeCrewString[index];
